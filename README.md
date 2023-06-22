@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Dante Diza
-- 👀 I’m interested in learning new things, most recently, data and tech.
-- 🌱 I’m currently learning software development. 
-- 💞️ I’m open to collaborate on any projects related to data and software engineering.
+- 👋 Hi, Dante here.
+- 👀 I’m here to learn all new things, data and app-dev.
+ 
+- 💞️ I’m open to collaborate on any projects related to data and software development.
 - 📫 The best way to reach me me is to message me at LinkedIn.com/in/Dante-Diza
 
 <!---

@@ -1,5 +1,6 @@
 - 👋 Hi! Dante here.
-- 👀 Learning new things, data and app-dev.
+- 
+- 👀 Life-long learner, all things data, machine learning, application development, and cloud technologies.
  
 - 💞️ I’m open to collaborating on any projects related to data and software development.
 - 📫 The best way to reach me is via LinkedIn.com/in/Dante-Diza

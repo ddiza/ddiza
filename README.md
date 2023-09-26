@@ -1,4 +1,6 @@
-- 👋 Hi! Dante here.
+### Hola!!
+
+- 👋 Dante here.
 - 
 - 👀 Life-long learner, all things data, machine learning, application development, and cloud technologies.
  

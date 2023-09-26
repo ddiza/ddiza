@@ -10,7 +10,7 @@
 
 
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies, Languages & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)

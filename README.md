@@ -11,9 +11,10 @@
 
 
 ## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/npm/v/npm.svg?logo=npm)
 
 
 

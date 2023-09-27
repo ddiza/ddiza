@@ -9,12 +9,12 @@ My undergraduate degree is in Computer Information Systems with a concentration 
 Thank you for stopping by.
 
 ---
-## **📃 Certs **
-• CompTIA Data+ **[DAO-001](https://www.credly.com/badges/d94449ce-1ce7-4093-ba8c-9aed2c8f0a26)**
-• LFS200: Fundamentals of Open Source IT and Cloud Computing **[LFS200: Fundamentals of Open Source IT and Cloud Computing](https://www.credly.com/badges/cc8a8238-ef82-4e4a-a4f6-4bc75fbc223e)**
-• Relational Databases **[IBM Developer Skills Network - RDBMS Essentials](https://www.credly.com/badges/92eafcee-863a-4a09-bd00-b8cf2509478a)**
+## **📃 Certs**
+• CompTIA Data+ **[DAO-001](https://www.credly.com/badges/d94449ce-1ce7-4093-ba8c-9aed2c8f0a26)** <br/>
+• LFS200: Fundamentals of Open Source IT and Cloud Computing **[LFS200: Fundamentals of Open Source IT and Cloud Computing](https://www.credly.com/badges/cc8a8238-ef82-4e4a-a4f6-4bc75fbc223e)**<br/>
+• Databases and SQL for Data Science **[IBM Developer Skills Network - Data Science DB & SQL](https://www.credly.com/badges/92eafcee-863a-4a09-bd00-b8cf2509478a)**<br/>
+• Relational Databases **[IBM Developer Skills Network - RDBMS Essentials](https://www.credly.com/badges/92eafcee-863a-4a09-bd00-b8cf2509478a)**<br/>
 
----
 
 ---
 

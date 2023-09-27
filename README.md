@@ -9,6 +9,9 @@ My undergraduate degree is in Computer Information Systems with a concentration 
 Thank you for stopping by.
 
 ---
+
+---
+
 ## **😊 About me**
 
 - 🔭 I currently work with other data professionals, sysadmin, and cybersecurity experts from various industries at Divergence Academy. We strive to bring an in-depth experience, providing invaluable insights for learners to succeed in a role within the tech community.
@@ -41,11 +44,6 @@ Thank you for stopping by.
             alt="Dante's dev.to">
     </a>
 </div>
----
-
-
-
-
 <!---
 ddiza/ddiza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

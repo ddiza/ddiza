@@ -11,7 +11,7 @@ Thank you for stopping by.
 ---
 ## **📃 Certs**
 **[• CompTIA Data+ DAO-001](https://www.credly.com/badges/d94449ce-1ce7-4093-ba8c-9aed2c8f0a26)** <br/>
-**[• MAVEN ANALYTICS, LLC: MySQL Data Analysis](https://www.credential.net/75bd481c-7229-485a-892c-c1f8be3ada28)**
+**[• MAVEN ANALYTICS, LLC: MySQL Data Analysis](https://www.credential.net/75bd481c-7229-485a-892c-c1f8be3ada28)**<br/>
 **[• Power BI Data Analytics Associate (PL-300 cert prep)](https://www.linkedin.com/learning/certificates/eddb7049585f80448168415f6807f2a8a7cfc1454205eb5693e8841086aa5dcd?accountId=57878161&u=57878161&success=true&authUUID=K6tsoAaNQ0%2BIKpi2RHubDg%3D%3D)**<br/>
 **[• IBM Developer Skills Network: Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/VNWC4A9YPND3)**
 

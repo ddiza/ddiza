@@ -1,5 +1,5 @@
-<!-- markdownlint-disable MD033 MD042-->
-
+<!-- markdownlint-disable MD033 MD042-->g
+![Header](./your-header-image-name.png)
 # Hi there, I'm Dante Diza! 👋
    
 I am an Information Systems & Technology professional and aspiring data engineer. 

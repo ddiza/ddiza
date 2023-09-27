@@ -26,7 +26,7 @@ Thank you for stopping by!😊
 ![](https://img.shields.io/npm/v/npm.svg?logo=npm)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational&logo=python)<br/>
-![]https://(img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br/>
 ![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)

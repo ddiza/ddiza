@@ -12,10 +12,9 @@ Thank you for stopping by.
 ## **😊 About me**
 
 - 🎡I am a prior US Army veteran with a career background in logistics and materials management.
-- 🔭 I currently work with other data professionals, sysadmin, and cybersecurity experts from various industries at Divergence Academy. We strive to bring a more in-depth experience, providing current, invaluable insights for learners to eventually succeed in a role within the tech community.
-- 🌱 I am continuously improving skills in machine learning and software development.
-- 👯 I always look forward to brand-new projects especially based on innovative ideas.
-- 🤔 I remain flexible with any employment opportunities as I continue to up-skill and contribute where I can in the tech community.
+- 🔭 I currently work with other data professionals, sysadmin, and cybersecurity experts from various industries at Divergence Academy where we provide current, invaluable insights for learners to eventually succeed in a role within the tech community.
+- 🌱 I continuously work to improve my skills in machine learning and software development languages.
+- 🤔 I always look forward to brand-new projects especially based on innovative ideas and can be flexible with any collaborative projects as I up-skill and contribute where I can in the tech community.
 - 💬 Please feel free to ask me about anything. 
 - ⚡ Fun fact: Others turn coffee into code; I as equally love working out, staying fit, 🏃running and cycling 🚴.
 ---

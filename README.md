@@ -2,13 +2,15 @@
 
 # Hi there, I'm Dante Diza! 👋
    
-I am an information systems & technology professional, a lifelong learner of all things data, machine learning, application development, and cloud technologies.
+I am an Information Systems & Technology professional, a lifelong learner of all things data, machine learning, application development, and cloud technologies.
 
-My undergraduate degree is in Computer Information Systems with a concentration in software engineering management. I completed the **Post-Graduate Program in Data Science & Business Analytics with the University of Texas at Austin McCombs School of Business** (**[PGP-DS&BA](https://onlineexeced.mccombs.utexas.edu/online-data-science-business-analytics-course)**) as well as a **full-stack software development program with Austin Coding Academy** (**[MongoDB-Express-React-Node](https://austincodingacademy.com/courses/software-development-online/)**).
+My undergraduate degree is in Computer Information Systems with a concentration in software engineering management. I also completed a **Post-Graduate Program in Data Science & Business Analytics with the University of Texas at Austin McCombs School of Business** (**[PGP-DS&BA](https://onlineexeced.mccombs.utexas.edu/online-data-science-business-analytics-course)**) as well as a **full-stack software development program with Austin Coding Academy** (**[MongoDB-Express-React-Node](https://austincodingacademy.com/courses/software-development-online/)**).
 
 Thank you for stopping by.
 
 ---
+## **📃 Certs **
+(**[CompTIA_Data+](https://www.credly.com/badges/d94449ce-1ce7-4093-ba8c-9aed2c8f0a26)**)
 
 ---
 

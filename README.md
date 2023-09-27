@@ -10,7 +10,11 @@ Thank you for stopping by.
 
 ---
 ## **📃 Certs **
-CompTIA Data+**[DAO-001](https://www.credly.com/badges/d94449ce-1ce7-4093-ba8c-9aed2c8f0a26)**
+• CompTIA Data+ **[DAO-001](https://www.credly.com/badges/d94449ce-1ce7-4093-ba8c-9aed2c8f0a26)**
+• LFS200: Fundamentals of Open Source IT and Cloud Computing **[LFS200: Fundamentals of Open Source IT and Cloud Computing](https://www.credly.com/badges/cc8a8238-ef82-4e4a-a4f6-4bc75fbc223e)**
+• Relational Databases **[IBM Developer Skills Network - RDBMS Essentials](https://www.credly.com/badges/92eafcee-863a-4a09-bd00-b8cf2509478a)**
+
+---
 
 ---
 

@@ -4,12 +4,12 @@
    
 I am an Information Systems & Technology professional and lifelong learner of all things data, machine learning, application development, and cloud technologies.
 
-My undergraduate degree is in Computer Information Systems with a concentration in software engineering management. I also completed a **[Post-Graduate Program in Data Science & Business Analytics](https://vrfy.digital/index.php?key=SZcBb)** with UT Austin's McCombs School of Business. More recently, a full-stack software development course with the **[Austin Coding Academy](https://austincodingacademy.com/courses/software-development-online/)**.
+My undergraduate degree is in Computer Information Systems with a concentration in software engineering management. I also completed a **[Post-Graduate Program in Data Science & Business Analytics](https://vrfy.digital/index.php?key=SZcBb)** with UT Austin's McCombs School of Business. I am enrolled and will soon complete an intensive full-stack software development program with the **[Austin Coding Academy](https://austincodingacademy.com/courses/software-development-online/)**.
 
-Thank you for stopping by.
+Thank you for stopping by!😊
 
 ---
-## **😊 About me**
+## **About me**
 
 - 🎡I am a prior US Army veteran with a career background in logistics and materials management.
 - 🔭 I currently work with other data professionals, sysadmin, and cybersecurity experts from various industries at Divergence Academy where we provide current, invaluable insights for learners to eventually succeed in a role within the tech community.

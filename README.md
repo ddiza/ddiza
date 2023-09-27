@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD042-->
 ![Header](github-header-image.png)
-# Hi there, I'm Dante Diza! 👋
+## Hi there! 👋
    
 I am an Information Systems & Technology professional and aspiring data engineer. 
 
@@ -21,8 +21,14 @@ Thank you for stopping by!😊
 ## 🛠️ Technologies, Languages & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![]	(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whit)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/npm/v/npm.svg?logo=npm)
+![]	(https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ---
 ## **📃 Skills Stack**

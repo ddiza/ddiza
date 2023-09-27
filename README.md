@@ -58,10 +58,6 @@ Thank you for stopping by!😊
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Dante's LinkedIn">
     </a>
-    <a href="https://dev.to/ddiza">
-        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
-            alt="Dante's dev.to">
-    </a>
 </div>
 <!---
 ddiza/ddiza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

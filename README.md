@@ -18,6 +18,13 @@ Thank you for stopping by.
 - 💬 Feel free to ask me about anything, but for now, I'm wide open for new projects, collaborations, or ideas!
 - ⚡ Fun fact: Others turn coffee into code; I as equally love working out, staying fit, 🏃running and cycling 🚴.
 ---
+## 🛠️ Technologies, Languages & Tools
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/npm/v/npm.svg?logo=npm)
+
+---
 ## **📫 How to reach me**
 
 <div align="center" style="text-align:center">
@@ -36,13 +43,6 @@ Thank you for stopping by.
 </div>
 ---
 
-## 🛠️ Technologies, Languages & Tools
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/npm/v/npm.svg?logo=npm)
-
----
 
 
 

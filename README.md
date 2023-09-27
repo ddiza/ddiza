@@ -1,14 +1,56 @@
-### Hola!!
+<!-- markdownlint-disable MD033 MD042-->
 
-- 👋 Dante here.
-- 
-- 👀 Life-long learner, all things data, machine learning, application development, and cloud technologies.
- 
-- 💞️ I’m open to collaborating on any projects related to data and software development.
-- 📫 Let's connect: linkedin.com/in/dante-diza
+# Hi there, I'm Dante Diza! 👋
+   
+I am an information systems & technology professional, a life-long learner of all things data, machine learning, application development, and cloud technologies.
 
+My undergraduate degree is in Computer Information Systems with a concentration in software engineering management. I completed the **Post-Graduate Program in Data Science & Business Analytics with the University of Texas at Austin McCombs School of Business** (**[PGP-DS&BA](https://onlineexeced.mccombs.utexas.edu/online-data-science-business-analytics-course)**) as well as a **full stack software development program with Austin Coding Academy** (**[MongoDB-Express-React-Node] (https://austincodingacademy.com/courses/software-development-online/)**).
 
+Thank you for stopping by.
 
+---
+## **😊 About me**
+
+- 🔭 I currently work with other other data professionals, sysadmin, and cybersecurity experts from various industries at Divergence Academy. We strive to bring an in-depth experience, providing invaluable insights for learners to succeed in a role within the tech community.
+- 🌱 I'm still learning to improve my skills in machine learning.
+- 👯 I look forward to brand-new projects/ideas.
+- 🤔 I am flexible with any employment opportunities as I continue to up-skill in tech.
+- 💬 Feel free to ask me about anything, but for now, I'm wide-open for new projects, collaborations or ideas!
+- ⚡ Fun fact: Others turn coffee into code; I just as equally love working out, staying fit, 🏃running and cycling 🚴.
+---
+## **📫 How to reach me**
+
+<div align="center" style="text-align:center">
+    <a href="mailto:dantediza@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
+            alt="Dante's Gmail">
+    </a>
+    <a href="https://wakatime.com/@Josee9988/">
+        <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@Josee9988&color=green"
+            alt="Dante's Wakatime">
+    </a>
+    <a href="https://www.linkedin.com/in/dante-diza/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="Dante's LinkedIn">
+    </a>
+    <a href="https://dev.to/ddiza">
+        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
+            alt="Dante's dev.to">
+    </a>
+</div>
+---
+<br/>
+<!-- Social badges section -->
+<p align="center">
+
+  <a href="https://github.com/ddiza1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ddiza1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/ddiza1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ddiza1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/ddiza/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/ddiza-profile-views"/></a>
+</p>
+<br/>
 
 ## 🛠️ Technologies, Languages & Tools
 

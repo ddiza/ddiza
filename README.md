@@ -4,7 +4,7 @@
    
 I am an Information Systems & Technology professional and lifelong learner of all things data, machine learning, application development, and cloud technologies.
 
-My undergraduate degree is in Computer Information Systems with a concentration in software engineering management. I also completed a **Post-Graduate Program in Data Science & Business Analytics with the University of Texas at Austin McCombs School of Business** (**[PGP-DS&BA](https://vrfy.digital/index.php?key=SZcBb)**) and more recently, a **full-stack software development program with the Austin Coding Academy** (**[MongoDB-Express-React-Node](https://austincodingacademy.com/courses/software-development-online/)**).
+My undergraduate degree is in Computer Information Systems with a concentration in software engineering management. I also completed a **[Post-Graduate Program in Data Science & Business Analytics](https://vrfy.digital/index.php?key=SZcBb)** with the University of Texas at Austin McCombs School of Business and more recently, a full-stack software development course with the **[Austin Coding Academy](https://austincodingacademy.com/courses/software-development-online/)**.
 
 Thank you for stopping by.
 

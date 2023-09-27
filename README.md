@@ -10,7 +10,7 @@ Thank you for stopping by.
 
 ---
 ## **📃 Certs **
-(**[CompTIA_Data+](https://www.credly.com/badges/d94449ce-1ce7-4093-ba8c-9aed2c8f0a26)**)
+CompTIA Data+**[DAO-001](https://www.credly.com/badges/d94449ce-1ce7-4093-ba8c-9aed2c8f0a26)**
 
 ---
 

@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD042-->
 ![Header](github-header-image.png)
-## Hi there! 👋
+### Hi there! 👋
    
 I am an Information Systems & Technology professional and aspiring data engineer. 
 
@@ -9,7 +9,7 @@ My undergraduate degree is in Computer Information Systems with a concentration 
 Thank you for stopping by!😊
 
 ---
-## **About me**
+### **About me**
 
 - 🎡I am a US Army veteran with a career background in logistics and materials management.
 - 🔭 I currently work with other data professionals, sysadmin, and cybersecurity experts from various industries at Divergence Academy where we provide current, invaluable insights for learners to eventually succeed in a role within the tech community.
@@ -18,13 +18,14 @@ Thank you for stopping by!😊
 - 💬 Please feel free to ask me about anything. 
 - ⚡ Fun fact: Others turn coffee into code; I as equally love working out, staying fit, 🏃running and cycling 🚴.
 ---
-## 🛠️ Technologies, Languages & Tools
+### 🛠️ Technologies, Languages & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&color=informational&logo=HTML5)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&color=informational&logo=CSS3)
 ![](https://img.shields.io/npm/v/npm.svg?logo=npm)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-Next.JS-informational?style=flat&color=informational&logo=Next.JS)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational&logo=python)<br/>
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -33,7 +34,7 @@ Thank you for stopping by!😊
 ![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ---
-## **📃 Skills Stack**
+### **📃 Certified Skills **
 **[• The Linux Foundation: Fundamentals of Open Source IT and Cloud Computing](https://www.credly.com/badges/cc8a8238-ef82-4e4a-a4f6-4bc75fbc223e)**<br/>
 **[• IBM Developer Skills Network: Python Project for Data Engineering](https://www.credly.com/badges/1f06793b-a60b-4772-8a6c-4a26effd0bad)**<br/>
 **[• IBM Developer Skills Network: Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/VNWC4A9YPND3)**<br/>

@@ -40,9 +40,9 @@ Thank you for stopping by!😊
 **[• IBM Developer Skills Network: Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/VNWC4A9YPND3)**<br/>
 **[• IBM Developer Skills Network: Databases and SQL for Data Science](https://www.credly.com/badges/9dd7e235-f7ca-42ba-9b42-b2b52dd199c7)**<br/>
 **[• IBM Developer Skills Network: Relational Databases](https://www.credly.com/badges/92eafcee-863a-4a09-bd00-b8cf2509478a)**<br/>
+**[• Power BI Data Analytics Associate (PL-300 cert prep)](https://www.linkedin.com/learning/certificates/eddb7049585f80448168415f6807f2a8a7cfc1454205eb5693e8841086aa5dcd?accountId=57878161&u=57878161&success=true&authUUID=K6tsoAaNQ0%2BIKpi2RHubDg%3D%3D)**<br/>
 **[• MAVEN ANALYTICS, LLC: MySQL Data Analysis](https://www.credential.net/75bd481c-7229-485a-892c-c1f8be3ada28)**<br/>
 **[• Time Series Modeling in Excel, R, and Power BI](https://www.linkedin.com/learning/certificates/872212bdc1580883516ee6cf85f393582991407dce1c41ab6a850d8b7aef0e66?u=57878161)**<br/>
-**[• Power BI Data Analytics Associate (PL-300 cert prep)](https://www.linkedin.com/learning/certificates/eddb7049585f80448168415f6807f2a8a7cfc1454205eb5693e8841086aa5dcd?accountId=57878161&u=57878161&success=true&authUUID=K6tsoAaNQ0%2BIKpi2RHubDg%3D%3D)**<br/>
 **[• The Linux Foundation: Fundamentals of Open Source IT and Cloud Computing](https://www.credly.com/badges/cc8a8238-ef82-4e4a-a4f6-4bc75fbc223e)**
 
 

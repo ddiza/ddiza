@@ -34,7 +34,7 @@ Thank you for stopping by!😊
 ![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ---
-### **📃 Certified Skills **
+### **☑️Skill Certifications **
 **[• The Linux Foundation: Fundamentals of Open Source IT and Cloud Computing](https://www.credly.com/badges/cc8a8238-ef82-4e4a-a4f6-4bc75fbc223e)**<br/>
 **[• IBM Developer Skills Network: Python Project for Data Engineering](https://www.credly.com/badges/1f06793b-a60b-4772-8a6c-4a26effd0bad)**<br/>
 **[• IBM Developer Skills Network: Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/VNWC4A9YPND3)**<br/>

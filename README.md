@@ -4,7 +4,7 @@
    
 I am an Information Systems & Technology professional on a path to learning as much as I can in tech. 
 
-My undergraduate degree is in Computer Information Systems with a concentration in Software Engineering Management. I also completed a **[Post-Graduate Program in Data Science & Business Analytics](https://vrfy.digital/index.php?key=SZcBb)** with UT Austin's McCombs School of Business and am currently enrolled in an intensive full-stack software development program with the **[Austin Coding Academy](https://austincodingacademy.com/courses/software-development-online/)**.
+My undergraduate degree is in Computer Information Systems with a concentration in Software Engineering Management. I also completed a **[Post-Graduate Program in Data Science & Business Analytics](https://vrfy.digital/index.php?key=SZcBb)** with UT Austin's McCombs School of Business as well as a full-stack software development program with the **[Austin Coding Academy](https://austincodingacademy.com/courses/software-development-online/)**.
 
 Thank you for stopping by!😊
 

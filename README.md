@@ -16,7 +16,7 @@ Thank you for stopping by!😊
 - 🌱 I continuously work to improve my skills in machine learning and software development languages.
 - 🤔 I always look forward to brand-new projects especially based on innovative ideas and can be flexible with any collaborative projects as I up-skill and contribute where I can in the tech community.
 - 💬 Please feel free to ask me about anything. 
-- ⚡ Fun fact: Others turn coffee into code; I as equally love working out, staying fit, 🏃running and cycling 🚴.
+- ⚡ Fun fact: Other than turning coffee into code, I equally love working out, staying fit, 🏃running and cycling 🚴.
 ---
 ### 🛠️ Technologies, Languages & Tools
 
